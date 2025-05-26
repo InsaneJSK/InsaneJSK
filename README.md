@@ -9,52 +9,60 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently pursuing **B.Tech** in Delhi, and skill-building every day  
-- 🧑‍💻 Focused on **AI/ML**, with a strong foundation in **backend/API dev (Python)**  
-- 🌱 Learning **agentic AI**, **generative AI**, and sharpening my grip on **ML/DL**  
-- 💬 Happy to connect and collaborate on cool tech projects or internships  
-- 💡 Always exploring — excited by all things **tech**  
+- 🔭 Pursuing **B.Tech** in Delhi and building skills daily  
+- ⚙️ Passionate about **AI/ML** and **Python-based backend/API development**  
+- 🧠 Exploring **Agentic AI**, **Generative AI**, and mastering **ML/DL**  
+- 🤝 Open to internships, open-source, and tech collabs  
+- 🌌 Forever curious — always learning, always building  
 
 ---
 
 ### ⚒️ Tech Stack
 
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-181717?style=flat&logo=python)  
-![HTML5](https://img.shields.io/badge/-HTML5-181717?style=flat&logo=html5)  
-![CSS3](https://img.shields.io/badge/-CSS3-181717?style=flat&logo=css3)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=flat&logo=javascript)  
-![C](https://img.shields.io/badge/-C-181717?style=flat&logo=c)  
-![C++](https://img.shields.io/badge/-C++-181717?style=flat&logo=cplusplus)
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/-Python-181717?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/-HTML5-181717?style=flat&logo=html5" />
+  <img src="https://img.shields.io/badge/-CSS3-181717?style=flat&logo=css3" />
+  <img src="https://img.shields.io/badge/-JavaScript-181717?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/-C-181717?style=flat&logo=c" />
+  <img src="https://img.shields.io/badge/-C++-181717?style=flat&logo=cplusplus" />
+</p>
 
-**Frameworks & Libraries:**  
-![NumPy](https://img.shields.io/badge/-NumPy-181717?style=flat&logo=numpy)  
-![Pandas](https://img.shields.io/badge/-Pandas-181717?style=flat&logo=pandas)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-181717?style=flat&logo=pytorch)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-181717?style=flat&logo=tensorflow)  
-![Flask](https://img.shields.io/badge/-Flask-181717?style=flat&logo=flask)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-181717?style=flat&logo=fastapi)  
-![OpenCV](https://img.shields.io/badge/-OpenCV-181717?style=flat&logo=opencv)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-181717?style=flat&logo=matplotlib)  
-![Seaborn](https://img.shields.io/badge/-Seaborn-181717?style=flat&logo=seaborn)
+<p align="center">
+  <!-- Libraries/Frameworks -->
+  <img src="https://img.shields.io/badge/-NumPy-181717?style=flat&logo=numpy" />
+  <img src="https://img.shields.io/badge/-Pandas-181717?style=flat&logo=pandas" />
+  <img src="https://img.shields.io/badge/-PyTorch-181717?style=flat&logo=pytorch" />
+  <img src="https://img.shields.io/badge/-TensorFlow-181717?style=flat&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/-Flask-181717?style=flat&logo=flask" />
+  <img src="https://img.shields.io/badge/-FastAPI-181717?style=flat&logo=fastapi" />
+  <img src="https://img.shields.io/badge/-OpenCV-181717?style=flat&logo=opencv" />
+  <img src="https://img.shields.io/badge/-Matplotlib-181717?style=flat&logo=matplotlib" />
+  <img src="https://img.shields.io/badge/-Seaborn-181717?style=flat&logo=seaborn" />
+</p>
 
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/-Git-181717?style=flat&logo=git)  
-![Docker](https://img.shields.io/badge/-Docker-181717?style=flat&logo=docker)  
-![Postman](https://img.shields.io/badge/-Postman-181717?style=flat&logo=postman)  
-![VSCode](https://img.shields.io/badge/-VSCode-181717?style=flat&logo=visualstudiocode)
+<p align="center">
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/-Git-181717?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/-Docker-181717?style=flat&logo=docker" />
+  <img src="https://img.shields.io/badge/-Postman-181717?style=flat&logo=postman" />
+  <img src="https://img.shields.io/badge/-VSCode-181717?style=flat&logo=visualstudiocode" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=insanejsk&theme=tokyonight&hide_border=true" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=insanejsk&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insanejsk&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=insanejsk&theme=tokyonight&hide_border=true" /></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=insanejsk&show_icons=true&theme=tokyonight&hide_border=true" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insanejsk&layout=compact&theme=tokyonight&hide_border=true" /></td>
+  </tr>
+</table>
 
 ---
 
@@ -68,7 +76,7 @@
 
 ### 🌐 Let's Connect
 
-<p>
+<p align="center">
   <a href="mailto:jaspreet.jsk.kohli@gmail.com"><img src="https://img.shields.io/badge/-Email-181717?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/jaspreet-singh-jsk"><img src="https://img.shields.io/badge/-LinkedIn-181717?style=flat&logo=linkedin" /></a>
   <a href="https://leetcode.com/u/user3182PE/"><img src="https://img.shields.io/badge/-LeetCode-181717?style=flat&logo=leetcode" /></a>
@@ -76,7 +84,6 @@
   <a href="https://www.naukri.com/code360/profile/InsaneJSK"><img src="https://img.shields.io/badge/-Coding Ninjas-181717?style=flat&logo=codeforces" /></a>
   <a href="https://www.kaggle.com/insanejsk"><img src="https://img.shields.io/badge/-Kaggle-181717?style=flat&logo=kaggle" /></a>
 </p>
-
 
 ---
 
