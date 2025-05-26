@@ -1,35 +1,85 @@
 <h1 align="center">Hi 👋, I'm Jaspreet Singh</h1>
-<h3 align="center">An AIML enthusiast and aspiring web developer from India</h3>
+<h3 align="center">Aspiring Software Engineer | AI/ML Enthusiast | Tech Explorer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=insanejsk" alt="insanejsk" /></a> </p>
-
-- 🌱 I’m currently learning **more about AIML and DSA**
-
-- 👯 I’m looking to collaborate on **AIML projects**
-
-- 🤝 I’m looking for help with **learning and exploring various technologies**
-
-- 💬 Ask me about **Python and related technologies**
-
-- 📫 How to reach me **jaspreet.jsk.kohli@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/jaspreet-singh-b091202a7](https://www.linkedin.com/in/jaspreet-singh-b091202a7)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jaspreet_jsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaspreet_jsk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jaspreet-singh-b091202a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaspreet-singh-b091202a7/" height="30" width="40" /></a>
-<a href="https://kaggle.com/insanejsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="insanejsk" height="30" width="40" /></a>
-<a href="https://instagram.com/theinsanejsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theinsanejsk" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jaspreet_jsk_ko1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jaspreet_jsk_ko1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jaspreet singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jaspreet singh" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Always+curious+about+tech...;AI+%2F+ML+is+my+playground;Backend+%7C+Python+%7C+APIs;Open+to+internships+%26+collabs!" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=insanejsk&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="insanejsk" /></p>
+### 🧠 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=insanejsk&show_icons=true&theme=tokyonight&locale=en" alt="insanejsk" /></p>
+- 🔭 Currently pursuing **B.Tech** in Delhi, and skill-building every day  
+- 🧑‍💻 Focused on **AI/ML**, with a strong foundation in **backend/API dev (Python)**  
+- 🌱 Learning **agentic AI**, **generative AI**, and sharpening my grip on **ML/DL**  
+- 💬 Happy to connect and collaborate on cool tech projects or internships  
+- 💡 Always exploring — excited by all things **tech**  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=insanejsk&theme=dark" alt="insanejsk" /></p>
+---
+
+### ⚒️ Tech Stack
+
+**Languages:**  
+![Python](https://img.shields.io/badge/-Python-181717?style=flat&logo=python)  
+![HTML5](https://img.shields.io/badge/-HTML5-181717?style=flat&logo=html5)  
+![CSS3](https://img.shields.io/badge/-CSS3-181717?style=flat&logo=css3)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=flat&logo=javascript)  
+![C](https://img.shields.io/badge/-C-181717?style=flat&logo=c)  
+![C++](https://img.shields.io/badge/-C++-181717?style=flat&logo=cplusplus)
+
+**Frameworks & Libraries:**  
+![NumPy](https://img.shields.io/badge/-NumPy-181717?style=flat&logo=numpy)  
+![Pandas](https://img.shields.io/badge/-Pandas-181717?style=flat&logo=pandas)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-181717?style=flat&logo=pytorch)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-181717?style=flat&logo=tensorflow)  
+![Flask](https://img.shields.io/badge/-Flask-181717?style=flat&logo=flask)  
+![FastAPI](https://img.shields.io/badge/-FastAPI-181717?style=flat&logo=fastapi)  
+![OpenCV](https://img.shields.io/badge/-OpenCV-181717?style=flat&logo=opencv)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-181717?style=flat&logo=matplotlib)  
+![Seaborn](https://img.shields.io/badge/-Seaborn-181717?style=flat&logo=seaborn)
+
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/-Git-181717?style=flat&logo=git)  
+![Docker](https://img.shields.io/badge/-Docker-181717?style=flat&logo=docker)  
+![Postman](https://img.shields.io/badge/-Postman-181717?style=flat&logo=postman)  
+![VSCode](https://img.shields.io/badge/-VSCode-181717?style=flat&logo=visualstudiocode)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=insanejsk&theme=tokyonight&hide_border=true" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=insanejsk&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insanejsk&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🏆 Dev Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=insanejsk&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+<p>
+  <a href="mailto:jaspreet.jsk.kohli@gmail.com"><img src="https://img.shields.io/badge/-Email-181717?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jaspreet-singh-jsk"><img src="https://img.shields.io/badge/-LinkedIn-181717?style=flat&logo=linkedin" /></a>
+  <a href="https://leetcode.com/u/user3182PE/"><img src="https://img.shields.io/badge/-LeetCode-181717?style=flat&logo=leetcode" /></a>
+  <a href="https://www.hackerrank.com/jaspreet_jsk_ko1"><img src="https://img.shields.io/badge/-HackerRank-181717?style=flat&logo=hackerrank" /></a>
+  <a href="https://www.naukri.com/code360/profile/InsaneJSK"><img src="https://img.shields.io/badge/-Coding Ninjas-181717?style=flat&logo=codeforces" /></a>
+  <a href="https://www.kaggle.com/insanejsk"><img src="https://img.shields.io/badge/-Kaggle-181717?style=flat&logo=kaggle" /></a>
+</p>
+
+
+---
+
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"></p>
+<p align="center"><i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i></p>
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"></p>
